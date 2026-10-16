@@ -12,7 +12,7 @@ export const resumeData: ResumeData = {
   contact: [
     { label: "EMAIL", value: "gouthamsaigoparaju@gmail.com" },
     { label: "GITHUB", value: "github.com/Goutham011" },
-    { label: "LINKEDIN", value: "linkedin.com/in/GouthamSai" },
+    { label: "LINKEDIN", value: "linkedin.com/in/goutham-sai-goparaju-574555262" },
   ],
   profile: [
     "Data Management Analyst specializing in Data Governance, Data Quality,",

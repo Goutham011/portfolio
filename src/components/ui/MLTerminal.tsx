@@ -36,7 +36,7 @@ const commands: Record<string, string[]> = {
   contact: [
     "  EMAIL     gouthamsaigoparaju@gmail.com",
     "  GITHUB    github.com/Goutham011",
-    "  LINKEDIN  linkedin.com/in/GouthamSai",
+    "  LINKEDIN  linkedin.com/in/goutham-sai-goparaju-574555262",
   ],
   train: [
     "  [EPOCH 1/3] loss=2.417  acc=0.342  lr=0.001",

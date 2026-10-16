@@ -79,7 +79,7 @@ export function ContactSection() {
                 {[
                   { label: "EMAIL", value: "gouthamsaigoparaju@gmail.com", href: "mailto:gouthamsaigoparaju@gmail.com", color: "#FF4500" },
                   { label: "GITHUB", value: "github.com/Goutham011", href: "https://github.com/Goutham011", color: "#0E7A56" },
-                  { label: "LINKEDIN", value: "linkedin.com/in/GouthamSai", href: "https://linkedin.com/in/GouthamSai", color: "#B45309" },
+                  { label: "LINKEDIN", value: "linkedin.com/in/goutham-sai-goparaju-574555262", href: "https://www.linkedin.com/in/goutham-sai-goparaju-574555262", color: "#B45309" },
                 ].map((contact, i) => (
                   <motion.a key={contact.label} href={contact.href} target="_blank" rel="noopener noreferrer"
                     initial={{ opacity: 0, x: -20 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }}

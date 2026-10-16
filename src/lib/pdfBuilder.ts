@@ -148,7 +148,7 @@ function buildContent(data: ResumeData): string {
 
   y -= 18;
   ops.push(
-    text(M, y, 8.5, "F3", MUTED, data.contact.map((c) => c.value).join("   //   "))
+    text(M, y, 7.5, "F3", MUTED, data.contact.map((c) => c.value).join("   //   "))
   );
 
   y -= 16;
