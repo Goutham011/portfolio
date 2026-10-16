@@ -78,7 +78,6 @@ export function ContactSection() {
               <div className="mt-10 space-y-3">
                 {[
                   { label: "EMAIL", value: "gouthamsaigoparaju@gmail.com", href: "mailto:gouthamsaigoparaju@gmail.com", color: "#FF4500" },
-                  { label: "PHONE", value: "+91-9010223834", href: "tel:+919010223834", color: "#2249C7" },
                   { label: "GITHUB", value: "github.com/Goutham011", href: "https://github.com/Goutham011", color: "#0E7A56" },
                   { label: "LINKEDIN", value: "linkedin.com/in/GouthamSai", href: "https://linkedin.com/in/GouthamSai", color: "#B45309" },
                 ].map((contact, i) => (

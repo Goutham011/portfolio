@@ -11,7 +11,6 @@ export const resumeData: ResumeData = {
   status: "PDF / Live Compile",
   contact: [
     { label: "EMAIL", value: "gouthamsaigoparaju@gmail.com" },
-    { label: "PHONE", value: "+91-9010223834" },
     { label: "GITHUB", value: "github.com/Goutham011" },
     { label: "LINKEDIN", value: "linkedin.com/in/GouthamSai" },
   ],

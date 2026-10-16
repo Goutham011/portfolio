@@ -35,7 +35,6 @@ const commands: Record<string, string[]> = {
   ],
   contact: [
     "  EMAIL     gouthamsaigoparaju@gmail.com",
-    "  PHONE     +91-9010223834",
     "  GITHUB    github.com/Goutham011",
     "  LINKEDIN  linkedin.com/in/GouthamSai",
   ],
